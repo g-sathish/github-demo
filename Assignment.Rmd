@@ -5,6 +5,3 @@ date: "1/28/2022"
 output: html_document
 ---
 
-# This is my assignment file
-
-# This is the second line of the assignment file
