@@ -6,3 +6,5 @@ output: html_document
 ---
 
 # This is my first line in Assignment.Rmd
+
+# This is the second line added from Github
